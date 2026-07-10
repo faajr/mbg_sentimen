@@ -49,7 +49,7 @@ Aplikasi dideploy menggunakan Streamlit Community Cloud, yang memungkinkan akses
     • Meningkatkan transparansi data bagi pihak terkait.
     • Mengidentifikasi area dengan kendala distribusi secara cepat.
     • Mendukung evaluasi berbasis data (data-driven evaluation).
-.
+---
 ## ⚠️ Catatan
     • Akurasi analisis sangat bergantung pada kualitas data input yang diunggah.
     • Project ini bersifat sebagai alat bantu visualisasi dan analisis data untuk mendukung pengambilan keputusan.
