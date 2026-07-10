@@ -14,10 +14,10 @@ Project ini dikembangkan sebagai alat bantu analisis (analyst tool) untuk memant
 ## 🗂️ Struktur Project
 ```text
 mbg-analyst/
-├── app.py                        # Entry point aplikasi Streamlit
-├── model.pkl                # model ML – Random Forest
+├── app.py             # Entry point aplikasi Streamlit
+├── model.pkl          # model ML – Random Forest
 ├── vectorizer.pkl     # TF-IDF atau frekuensi kata
-├── requirements.txt       # Daftar dependensi library
+├── requirements.txt   # Daftar dependensi library
 └── README.md
 ```
 ---
