@@ -1,5 +1,6 @@
 # 📊 Dashboard MBG Analyst
 Aplikasi web untuk menganalisis data, memantau indikator, dan memberikan insight mendalam terkait Program Makan Bergizi Gratis (MBG), dibangun dengan framework Streamlit.
+---
 🔗 Live Demo: mbg-analyst.streamlit.app
 ---
 ## 📌 Tentang Project
