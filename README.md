@@ -4,7 +4,7 @@ Aplikasi web untuk menganalisis data, memantau indikator, dan memberikan insight
 🔗 Live Demo: mbg-analyst.streamlit.app
 ---
 ## 📌 Tentang Project
-Project ini dikembangkan sebagai alat bantu analisis (analyst tool) untuk memantau performa dan dampak program Makan Bergizi Gratis (MBG). Aplikasi ini menyediakan visualisasi data yang intuitif untuk membantu pemangku kepentingan dalam memahami distribusi, kualitas, dan efektivitas program di lapangan secara real-time atau berdasarkan dataset historis.
+Project ini dibuat sebagai alat bantu analisis (analyst tool) untuk memantau performa dan dampak program Makan Bergizi Gratis (MBG). Terdapat juga visualisasi data yang intuitif untuk membantu pemangku kepentingan dalam memahami distribusi, kualitas, dan efektivitas program.
 ---
 ## 🎯 Tujuan Analisis
     • Monitoring Program: Memantau ketercapaian target distribusi makan bergizi.
